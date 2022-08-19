@@ -26,7 +26,6 @@ El juego se trata de adivinar una palabra de cinco letras en seis intentos.
      
 - Si una letra no está en la palabra oculta --> ❌
 
-- Si una letra no está en la palabra oculta --> ❌
 En cualquier momnento el usuario puede obtener un hint si así lo desea, pero esto le descontará un intento del total de intentos que tiene. Para obtener un hint se necesita escribir "hint" en el prompt. Además, el usuario también puede escribir "me rindo" y automáticamente el juego terminará y podrá conocer la palabra oculta.
 
 
