@@ -33,7 +33,5 @@ En cualquier momnento el usuario puede obtener un hint si así lo desea, pero es
 Para este juego utilizo una archivo de python (Wordle.py) donde están contenidas las clases del juego (Instrucciones y Juego) y sus funciones. Estas clases las importo en el jupyter notebook donde tendrá lugar el juego en sí. 
 
 ## Links
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+ 
 [Trello](https://trello.com/en)  
