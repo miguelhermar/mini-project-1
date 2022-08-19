@@ -6,28 +6,34 @@
 *Agosto 2022, México, 19 de agosto*
 
 ## Content
-- [Project Description](#project-description)
-- [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
+- [Descripción del juego](#project-description)
+- [Reglas] (#rules)
+- [Organización](#organization)
 - [Links](#links)
 
-## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+## Descripción del juego
+El juego se trata de adivinar una palabra de cinco letras en seis intentos.
 
-## Rules
-Describe briefly the rules of the game you chose. 
+1. Usaremos una lista de palabras con cinco letras y escogeremos una al azar que sea la palabra oculta.
+2. El usuario tendrá que adivinar la palabra oculta durante 6 intentos.
+3. Crearemos una variable que almacene el número de veces que el usuario intenta adivinar la palabra.
+4. Necesitamos también un condicional para cada uno de los resultados que arroje el input del usuario.
+    
+## Reglas
+- Si una letra se adivina correctamente y en la posición correcta --> ✅
+     
+- Si se adivina una letra correctamente pero está en la posición incorrecta --> 🔥
+     
+- Si una letra no está en la palabra oculta --> ❌
 
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Si una letra no está en la palabra oculta --> ❌
+En cualquier momnento el usuario puede obtener un hint si así lo desea, pero esto le descontará un intento del total de intentos que tiene. Para obtener un hint se necesita escribir "hint" en el prompt. Además, el usuario también puede escribir "me rindo" y automáticamente el juego terminará y podrá conocer la palabra oculta.
 
-## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
 
-What does your repository look like? Explain your folder and file structure.
+## Organización
+Para este juego utilizo una archivo de python (Wordle.py) donde están contenidas las clases del juego (Instrucciones y Juego) y sus funciones. Estas clases las importo en el jupyter notebook donde tendrá lugar el juego en sí. 
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
