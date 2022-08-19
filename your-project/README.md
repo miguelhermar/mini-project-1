@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Mini Project - Build your own game (Wordle)
-*[Your Name]*
+*Miguel Ángel Hernández Márquez*
 
-*[Your Cohort, Campus & Date]*
+*Agosto 2022, México, 19 de agosto*
 
 ## Content
 - [Project Description](#project-description)
