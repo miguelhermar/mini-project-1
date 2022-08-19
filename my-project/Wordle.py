@@ -33,7 +33,7 @@ class Juego:
                             'añade', 'clave', 'cerca', 'parte', 'buena']
         
         hints = ['saco', 'hostal', 'estudiante de Ironhack', 'temblor', "'o...o manzanas'", "aceite de...", "'...opuestos'", 
-                'él suma', 'llave, cifra', '=! lejos', "pedazo", 'bondadosa']
+                'él/ella suma', 'llave, cifra', '=! lejos', "pedazo", 'bondadosa']
         n_intento = 6
         palabra_random = random.choice(lista_de_palabras)
         #indice = lista_de_palabras[palabra_random] 
