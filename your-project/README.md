@@ -6,7 +6,7 @@
 *Agosto 2022, México, 19 de agosto*
 
 ## Contenido
-- [Descripción del juego](#project-description)
+- [Descripción del juego](#descripción del juego)
 - [Reglas](#reglas)
 - [Organización](#organización)
 - [Links](#links)
