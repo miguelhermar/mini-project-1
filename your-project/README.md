@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Mini Project - Build your own game (Wordle)
+# Mini Project 1 - Build your own game (Wordle)
 *Miguel Ángel Hernández Márquez*
 
 *Agosto 2022, México, 19 de agosto*
