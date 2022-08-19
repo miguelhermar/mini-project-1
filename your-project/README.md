@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Mini Project - Build your own game (Wordle)
 *[Your Name]*
 
 *[Your Cohort, Campus & Date]*
