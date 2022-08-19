@@ -45,7 +45,7 @@ class Juego:
                 print("La palabra secreta era", colored(palabra_random.upper(), attrs=['bold']))
                 break
             elif intento.lower() == 'hint':
-                confirmar = input('¿Estás seguro de querer obtener un hint? Perderás un intento si lo haces. Escribe "s" si                                         quieres obtener un hint o "n" si prefieres seguir sin un hint.')
+                confirmar = input('¿Estás seguro de querer obtener un hint? Perderás un intento si lo haces. Escribe "s" si quieres obtener un hint o "n" si prefieres seguir sin un hint.')
                 if confirmar == 's':
                     n_intento -= 1
                     for i, r in zip(lista_de_palabras, hints):
